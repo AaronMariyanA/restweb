@@ -149,7 +149,7 @@ index.html
 </div>
 
 <footer>
-    <p>Designed and Developed by NANDA KISHOR SP <br> 24011485</p>
+    <p>Designed and Developed by Aaron Mariyan <br> 212224040004</p>
 </footer>
 
 </body>
